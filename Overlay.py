@@ -115,8 +115,6 @@ img1 = Image.open(input_png_filename)
 drawDataCircles(img1, int(sys.argv[PARAM_X_SPACE]),int(sys.argv[PARAM_Y_SPACE]), int(sys.argv[PARAM_X_TRANS]),int(sys.argv[PARAM_Y_TRANS]),data, 10, "ValueH")
 img1.save(output_png_filename+"Low.png")  
 
-# In[105]:
-
 
 
 
