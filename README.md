@@ -2,3 +2,7 @@
 Various Python scripts for generating images for the QC project
 
 The overlay.py script generates circles in a grid pattern on top of a base image, with the circle fill colour representing anchoring accuracy (green = 0 = correctly anchored; yellow = 2 = unknown; red = 1 = incorrectly anchored).  
+
+The addNumbers.py script generates numbers in a grid pattern on top of a base image. The numbers are pulled from a csv file and correspond to the ID number of each grid point. 
+
+The .cmd files are used to run the scripts above.
