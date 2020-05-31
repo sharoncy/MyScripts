@@ -1,0 +1,6 @@
+import glob
+
+from resize import your_resize_function
+
+for image_file in glob.iglob('/path/to/image/dir/*.jpg'):
+    your_resize_function(image_file)
