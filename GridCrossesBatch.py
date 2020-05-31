@@ -77,7 +77,6 @@ for eachImage in ImageList:
 	drawGridCrosses(img, int(sys.argv[PARAM_X_SPACE]), int(sys.argv[PARAM_Y_SPACE]), int(sys.argv[PARAM_X_TRANS]),int(sys.argv[PARAM_Y_TRANS]), 8)
 	img.save(newImageFilename) 
 
-	#eachImage.split("\\")
 
  
 
