@@ -1,4 +1,4 @@
-#  Miscellaneous
+#  BRAINSPACE scripts. 
 
 Miscellanous scripts used in the planning stages of the BRAINSPACE Project. https://github.com/Neural-Systems-at-UIO/BRAINSPACE 
 
