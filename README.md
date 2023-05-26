@@ -10,4 +10,4 @@ The `addNumbers.py` script generates numbers in a grid pattern on top of a base 
 
 The `gridCrosses.py` script generates a grid of crosses of a specified pixel distance apart that are randomly positioned in space. 
 
-The .cmd files are used to run the above scripts.
+The `.cmd files` are used to run the above scripts.
